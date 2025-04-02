@@ -2,7 +2,7 @@
 Kyle Cristobal and Michael Hayes
 
 [CODE](https://github.com/kcristobal07/lab2/blob/main/src/main.cpp)  
-[VIDEO]()
+[VIDEO](https://drive.google.com/file/d/1J7JcJKI59iaWN1r0NwddmdorFXlN1L6d/view?usp=drivesdk)
 
 ## Serial Output
 ![serial output](https://raw.githubusercontent.com/mhayescs19/static-images/refs/heads/master/esp32/lab3/serial-output.jpg)
