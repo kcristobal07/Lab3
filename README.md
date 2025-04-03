@@ -10,3 +10,6 @@ Kyle Cristobal and Michael Hayes
 ## EC2 Output
 ![ec2 output](https://raw.githubusercontent.com/mhayescs19/static-images/refs/heads/master/esp32/lab3/ec2-output.jpg)
 
+## Wiring
+![temp sensor wiring](https://raw.githubusercontent.com/mhayescs19/static-images/refs/heads/master/esp32/lab3/wiring.jpg)
+
